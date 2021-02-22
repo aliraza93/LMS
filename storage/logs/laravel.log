@@ -1,0 +1,183 @@
+[2021-02-21 07:11:25] local.ERROR: Command "migrate:seed" is not defined.
+
+Did you mean one of these?
+    db:seed
+    make:seeder
+    migrate
+    migrate:fresh
+    migrate:install
+    migrate:refresh
+    migrate:reset
+    migrate:rollback
+    migrate:status {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"migrate:seed\" is not defined.
+
+Did you mean one of these?
+    db:seed
+    make:seeder
+    migrate
+    migrate:fresh
+    migrate:install
+    migrate:refresh
+    migrate:reset
+    migrate:rollback
+    migrate:status at C:\\xampp\\htdocs\\teachify\\vendor\\symfony\\console\\Application.php:675)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\teachify\\vendor\\symfony\\console\\Application.php(254): Symfony\\Component\\Console\\Application->find('migrate:seed')
+#1 C:\\xampp\\htdocs\\teachify\\vendor\\symfony\\console\\Application.php(166): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\xampp\\htdocs\\teachify\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\xampp\\htdocs\\teachify\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\xampp\\htdocs\\teachify\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2021-02-21 13:36:49] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:37:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:38:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:39:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:40:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:41:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:42:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:43:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:44:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:45:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:46:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:47:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:48:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:49:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:50:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:51:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:52:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:53:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:54:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:55:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:56:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:57:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:58:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 13:59:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:00:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:01:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:02:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:03:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:04:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:05:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:06:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:07:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:08:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:09:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:10:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-21 14:11:47] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-22 05:59:50] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2021-02-22 06:00:48] local.ERROR: Cannot redeclare unique_slug() (previously declared in C:\xampp\htdocs\teachify\app\functions.php:51) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare unique_slug() (previously declared in C:\\xampp\\htdocs\\teachify\\app\\functions.php:51) at C:\\xampp\\htdocs\\teachify\\app\\functions.php:51)
+[stacktrace]
+#0 {main}
+"} 
